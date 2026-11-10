@@ -1,4 +1,4 @@
 実行
 ```
-node ./net.js
+node ./interfaces.js
 ```
